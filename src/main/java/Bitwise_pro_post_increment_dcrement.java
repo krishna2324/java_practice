@@ -5,7 +5,7 @@ public class Bitwise_pro_post_increment_dcrement {
              a++;
 
 //        System.out.println(a);
-        if(n==a)
+        if(true) //if(a==n)
         {
             System.out.println("n = "+ n + "  and a = " +a + " both are same ");
         }
