@@ -11,6 +11,7 @@ public class Bitwise_pro_post_increment_dcrement {
         }
         else {
             System.out.println("n = "+ n + "  and a = " +a + " both are not same ");
+            System.out.println("n = "+ n + "  and a = " +a + " both are not same ");
         }
 
     }
