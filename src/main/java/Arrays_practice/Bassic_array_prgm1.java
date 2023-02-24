@@ -25,3 +25,14 @@ public class Bassic_array_prgm1 {
 
 
 }
+   /* byte[] anArrayOfBytes;
+    short[] anArrayOfShorts;
+    long[] anArrayOfLongs;
+    float[] anArrayOfFloats;
+    double[] anArrayOfDoubles;
+    boolean[] anArrayOfBooleans;
+    char[] anArrayOfChars;
+    String[] anArrayOfStrings;
+    Employee[] anArrayOfEmployees;
+    Student[] anArrayOfStudent;
+    Object[] anArrayOfObjects;*/
